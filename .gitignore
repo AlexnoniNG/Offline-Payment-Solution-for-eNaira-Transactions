@@ -1,0 +1,17 @@
+data/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+*.swp
+*.db
+enaira.db
